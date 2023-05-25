@@ -1,5 +1,5 @@
 # FLK Mod Template
-Created to fill the void with up-to-date Kotlin mod templates. 
+Created to fill the void of up-to-date Kotlin mod templates. 
 
 ### Setup
 - Create a repository using this mod as a template — you can do this by clicking the
