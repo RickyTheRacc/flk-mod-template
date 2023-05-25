@@ -4,6 +4,6 @@ import net.fabricmc.api.ModInitializer
 
 class Main: ModInitializer {
     override fun onInitialize() {
-        // Code that runs at startup
+        println("This message is sent when the mod is initialized!")
     }
 }
