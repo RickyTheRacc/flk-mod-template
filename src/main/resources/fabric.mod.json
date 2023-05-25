@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "flk-template",
   "version": "${version}",
-  "name": "FLK Template",
-  "description": "FLK mod template.",
+  "name": "flk-template",
+  "description": "flk-template",
   "authors": [
-    "YourNameHere"
+    "flk-template"
   ],
   "icon": "assets/icon.png",
   "environment": "client",
