@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "fabric.kotlin.template.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ],
+  "server": [
+
+  ]
+}

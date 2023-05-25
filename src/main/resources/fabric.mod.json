@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "flk-template",
+  "version": "${version}",
+  "name": "FLK Template",
+  "description": "FLK mod template.",
+  "authors": [
+    "YourNameHere"
+  ],
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [{
+        "value": "fabric.kotlin.template.Main",
+        "adapter": "kotlin"
+    }]
+  },
+  "mixins": [
+    "template.mixins.json"
+  ],
+  "accessWidener": "template.mcp.accesswidener",
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=${mc_version}",
+    "fabric-language-kotlin": ">=1.9"
+  }
+}
