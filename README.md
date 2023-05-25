@@ -13,7 +13,7 @@ Created to fill the void of up-to-date Kotlin mod templates.
   - The “mixin” object can be removed from fabric.mod.json if you don't need to use mixins.
     The same can be said about the AccessWidener file.  
 
-  - Make sure to replace all instances of the string “flk-template“ as necessary
+  - Make sure to replace all instances of the string “flk-template“ as necessary.
 
   - Depending on how your mod will work, you can change the entrypoint to extend
     “ClientModInitializer“ or “ServerModInitializer“ if your mod only uses one environment.
