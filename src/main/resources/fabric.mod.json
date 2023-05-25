@@ -10,7 +10,7 @@
   "icon": "assets/icon.png",
   "environment": "client",
   "entrypoints": {
-    "client": [{
+    "main": [{
         "value": "fabric.kotlin.template.Main",
         "adapter": "kotlin"
     }]
